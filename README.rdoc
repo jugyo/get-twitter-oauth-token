@@ -1,5 +1,5 @@
-= oauthor
+= oauther
 
-The "oauthor" is a command to get OAuth token.
+The "oauther" is a command to get OAuth token.
 
 Let's get OAuth token!
