@@ -1,6 +1,6 @@
 = get-twitter-oauth-token
 
-The "get-twitter-oauth-token" is a command to get OAuth token.
+The "get-twitter-oauth-token" is a command to get token/secret pair of Twitter OAuth.
 
 Let's get OAuth token!
 
