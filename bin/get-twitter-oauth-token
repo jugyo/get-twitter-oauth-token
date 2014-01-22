@@ -21,7 +21,7 @@ begin
   consumer = OAuth::Consumer.new(
     consumer_key,
     consumer_secret,
-    :site => 'http://api.twitter.com'
+    :site => 'https://api.twitter.com'
   )
 
   request_token = consumer.get_request_token
